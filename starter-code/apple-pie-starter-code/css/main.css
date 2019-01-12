@@ -1,0 +1,51 @@
+* {
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+body {
+  margin: 0 auto;
+}
+.main-image {
+  width: 1000px;
+  position: relative;
+  height: 700px;
+}
+span {
+  color:white;
+position: absolute;
+margin-top: 270px;
+margin-left: -650px;
+padding: o auto;
+font-size: 80px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+.main-page {
+  width: 1200px;
+  height: 900 px;
+  margin: 10px auto;
+  padding: 0 auto;  
+}
+.main-explanation {
+  width:800px;
+  padding: 30px 100px 20px 100px;
+}
+.main-explanation > p {
+  font-size: 21px;
+  text-align: justify;
+
+}.main-explanation > img {
+  width:400px;
+  margin:20px 200px; 
+}
+
+li {
+list-style: none;
+padding: 5px 0;
+}
+hr {
+  width:800px;
+}
